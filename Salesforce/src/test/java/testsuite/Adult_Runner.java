@@ -1,4 +1,4 @@
-package testSuite;
+package testsuite;
 
 public class Adult_Runner {
 
